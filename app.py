@@ -1,6 +1,5 @@
 import streamlit as st
 from recommender import JobRecommender
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 st.title("AI Job Recommendation System")
 
